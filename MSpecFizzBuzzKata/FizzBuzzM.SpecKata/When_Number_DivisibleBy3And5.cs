@@ -1,13 +1,8 @@
-﻿using FluentAssertions;
+﻿using FizzBuzzWhizImplementation;
+using FluentAssertions;
 using Machine.Specifications;
-using Machine.Specifications.Model;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace MSpectationLesson1
+namespace FizzBuzzM.SpecKata
 {
     [Subject("Given natural number of 1")]
     public class When_Number_IsNatural

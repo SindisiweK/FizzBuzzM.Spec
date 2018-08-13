@@ -66,12 +66,17 @@
     <Reference Include="System.Xml.Serialization" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FizzBuzzer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="When_Number_DivisibleBy3And5.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FizzBuzzWhizImplementation\FizzBuzzWhizImplementation.csproj">
+      <Project>{28e8b2ce-6f8d-4741-b878-483abb6186e8}</Project>
+      <Name>FizzBuzzWhizImplementation</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

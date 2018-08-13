@@ -1,5 +1,4 @@
-﻿using System;
-namespace MSpectationLesson1
+﻿namespace FizzBuzzWhizImplementation
 {
     public class FizzBuzzer
     {
