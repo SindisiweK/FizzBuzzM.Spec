@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MSpectationLesson1")]
+[assembly: AssemblyTitle("FizzBuzzM.SpecKata")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("MSpectationLesson1")]
+[assembly: AssemblyProduct("FizzBuzzM.SpecKata")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("23dfd3bf-6b53-4842-876c-e4d4c77aaf0e")]
+[assembly: Guid("95dbb38e-2bd3-46f7-81e8-e99dc0786d58")]
 
 // Version information for an assembly consists of the following four values:
 //
